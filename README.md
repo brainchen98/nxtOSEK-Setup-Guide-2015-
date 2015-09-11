@@ -6,7 +6,7 @@ I've created a zip file of all that you need.
 
 https://drive.google.com/file/d/0B--aP6OEoKPQUFR6SmhDUmdIaUU/view?usp=sharing
 
-NOTE. My nxtOSEK version is not up to date. The newest version is 300 and I'm on 214b3 (that was what popped up on sourceforge first)
+NOTE. My nxtOSEK version is not up to date. The newest version is 300 and I'm on 214b3. Version 300 requires GNUARM toolchain 4.6.2 which I struggled to find. Eventually I found it but still couldn't get it working. The Windows installation page uses the older toolchain anyway (4.0.2).
 
 http://sourceforge.net/projects/lejos-osek/files/nxtOSEK/
 
